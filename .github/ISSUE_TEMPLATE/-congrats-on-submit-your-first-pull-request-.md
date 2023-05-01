@@ -1,7 +1,7 @@
 ---
 name: " Congrats on submit your first pull request!"
 about: 'Your  Name | Batch '
-title: " Congrats on submit your first pull request!"
+title: 'Your name | Batch '
 labels: Complete
 assignees: lahiruroot
 
