@@ -10,4 +10,4 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Compile code
-        run: gcc -o myprogram mycode.c
+        run: gcc -o myprogram main.c
