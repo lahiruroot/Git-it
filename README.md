@@ -72,13 +72,7 @@ This command records or snapshots the file permanently in the version history.
 git commit -m 'commit message'
 
 ```
-This command is used to list the version history for the current branch.
 
-
-```bash
-git log
-
-```
 This command sends the committed changes of master branch to your remote repository.
 ```bash
 git push
@@ -89,6 +83,12 @@ git push
 git push --set-upstream origin <branch name>
 
 ```
+This command is used to list the version history for the current branch.
 
+
+```bash
+git log
+
+```
 
  
