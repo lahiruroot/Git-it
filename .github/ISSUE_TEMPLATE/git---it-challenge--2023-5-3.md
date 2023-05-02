@@ -1,15 +1,20 @@
 ---
 name: Git - it challenge  2023-5-3
-about: Enter your Name - question number
-title: ''
-labels: ''
-assignees: ''
+about: 'Fix the bugs and win awesome swags  '
+title: 'Your name - Batch '
+labels: Complete
+assignees: lahiruroot
 
 ---
 
-[] Explain the Identityfied bug 
+## ℹ️ Bug information
 
-[] How did you fix it
+- **Question name**: -your answer-
+- **Explain the bug you identified**: _your answer_
+
+
+
+### ![](https://media.giphy.com/media/3oz9ZE2Oo9zRC/giphy.gif)
 
 
 
