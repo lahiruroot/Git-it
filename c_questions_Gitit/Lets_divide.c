@@ -1,8 +1,9 @@
 #include<stdio.h>
-void main()
-{ int a,b,c,d;
-printf("Enter two Numbers : ");
-scanf("%d %d",&a,&b);
-c=a/d;
-printf("Division is %d",c);
+
+void main() {
+  float a, b, c, d;
+  printf("Enter two Numbers : ");
+  scanf("%f %f", &a, &b);
+  c = a / b;
+  printf("Division is %.2f", c);
 }
