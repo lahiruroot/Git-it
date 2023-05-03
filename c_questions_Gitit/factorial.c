@@ -2,7 +2,7 @@
 int main()
 {
     int n, i;
-    unsigned long long factorial = 0;
+    unsigned long long factorial = 1;
     //unsigned long long is the same as unsigned long long int. 
     //Its size is platform-dependent, but guaranteed by the C standard (ISO C99) to be at least 64 bits. 
 
